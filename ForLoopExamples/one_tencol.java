@@ -9,8 +9,9 @@ public class one_tencol {
         int i = 0 ;
     }
 
-
-
     
+
+
+
     
 }
