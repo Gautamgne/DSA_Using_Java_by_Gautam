@@ -3,6 +3,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "OneTen",
+      "request": "launch",
+      "mainClass": "ForLoopExamples.OneTen",
+      "projectName": "JAVA_414a3543"
+    },
+    {
+      "type": "java",
+      "name": "Oneen",
+      "request": "launch",
+      "mainClass": "ForLoopExamples.Oneen",
+      "projectName": "JAVA_414a3543"
+    },
+    {
+      "type": "java",
+      "name": "Oneten",
+      "request": "launch",
+      "mainClass": "ForLoopExamples.Oneten",
+      "projectName": "JAVA_414a3543"
+    },
+    {
+      "type": "java",
+      "name": "one_ten",
+      "request": "launch",
+      "mainClass": "ForLoopExamples.one_ten",
+      "projectName": "JAVA_414a3543"
+    },
+    {
+      "type": "java",
       "name": "OneToTenRow",
       "request": "launch",
       "mainClass": "ForLoopExamples.OneToTenRow",
